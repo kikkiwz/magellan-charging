@@ -1,0 +1,12 @@
+WARN: The method class org.apache.commons.logging.impl.SLF4JLogFactory#release() was invoked.
+WARN: Please see http://www.slf4j.org/codes.html#release for an explanation.
+0 [main] INFO org.eclipse.jetty.server.Server  - jetty-7.x.y-SNAPSHOT
+23 [main] INFO org.eclipse.jetty.server.handler.ContextHandler  - started o.e.j.s.ServletContextHandler{/,null}
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (malloc) failed to allocate 232176 bytes for Chunk::new
+# An error report file with more information is saved as:
+# D:\Project\Magellan_Automate_lass\Script_robot-20210409T030815Z-001\Script_robot\backup\robot_freamwork_250221\Magellan_Automate_Robotframework\Magellan_Automate_Robotframework\Magellan_Automate\test_case\hs_err_pid28000.log
+#
+# Compiler replay data is saved as:
+# D:\Project\Magellan_Automate_lass\Script_robot-20210409T030815Z-001\Script_robot\backup\robot_freamwork_250221\Magellan_Automate_Robotframework\Magellan_Automate_Robotframework\Magellan_Automate\test_case\replay_pid28000.log
